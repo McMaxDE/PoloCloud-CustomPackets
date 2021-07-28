@@ -1,0 +1,7 @@
+name: CloudTest
+version: 1.0.0
+author: Max_DE
+
+depend: [PoloCloud-Plugin]
+
+main: test.TestPlugin
